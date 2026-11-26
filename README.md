@@ -1,8 +1,8 @@
-\# AI \& Workflow Automation Internship: Jude Ughakpoteni
+\ AI \& Workflow Automation Internship: Jude Ughakpoteni
 
 
 
-\## About me
+\ About me
 
 I'm Jude, an Electrical/Electronics Engineering graduate of the University of Benin, based in Benin City, Nigeria.
 
@@ -12,7 +12,7 @@ I'm learning to build AI and workflow automations, and I plan to start an AI aut
 
 
 
-\## About the internship
+\ About the internship
 
 12-week online AI \& Workflow Automation Internship by Muslim Revive Skills (MRS).
 
@@ -24,13 +24,13 @@ One real automation project every week with n8n, Make.com, Zapier and Gemini AI.
 
 
 
-\## Mentor
+\ Mentor
 
 \[Muhammad Farhan](https://www.linkedin.com/in/muhammadfarhanmrs/)
 
 
 
-\## Organisation
+\ Organisation
 
 \- \[Muslim Revive Skills (MRS)](https://mrsplatform.tech/)
 
@@ -38,7 +38,7 @@ One real automation project every week with n8n, Make.com, Zapier and Gemini AI.
 
 
 
-\## Projects
+\ Projects
 
 
 
@@ -52,19 +52,19 @@ One real automation project every week with n8n, Make.com, Zapier and Gemini AI.
 
 
 
-\## Tools
+\ Tools
 
 n8n (Docker), Make.com, Zapier, Google Gemini, Google Sheets, Telegram, GitHub
 
 
 
-\## Capstone
+\ Capstone
 
 Coming in week 12.
 
 
 
-\## Contact
+\ Contact
 
 \[Jude on LinkedIn](https://www.linkedin.com/in/jude-ughakpoteni-337393413)
 
