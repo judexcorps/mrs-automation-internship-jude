@@ -1,64 +1,70 @@
-# \# AI \& Workflow Automation Internship: Jude Ughakpoteni
+\# AI \& Workflow Automation Internship: Jude Ughakpoteni
 
-# 
 
-# \## About me
 
-# I'm Jude, an Electrical/Electronics Engineering graduate of the University of Benin, based in Benin City, Nigeria.
+\## About me
 
-# I'm learning to build AI and workflow automations, and I plan to start an AI automation agency that helps businesses save time.
+I'm Jude, an Electrical/Electronics Engineering graduate of the University of Benin, based in Benin City, Nigeria.
 
-# 
 
-# \## About the internship
 
-# 12-week online AI \& Workflow Automation Internship by Muslim Revive Skills (MRS).
+I'm learning to build AI and workflow automations, and I plan to start an AI automation agency that helps businesses save time.
 
-# One real automation project every week with n8n, Make.com, Zapier and Gemini AI.
 
-# Start: 25 November 2026.
 
-# 
+\## About the internship
 
-# \## Mentor
+12-week online AI \& Workflow Automation Internship by Muslim Revive Skills (MRS).
 
-# Muhammad Farhan: https://www.linkedin.com/in/muhammadfarhanmrs/
+One real automation project every week with n8n, Make.com, Zapier and Gemini AI.
 
-# 
 
-# \## Organisation
 
-# Muslim Revive Skills (MRS): https://mrsplatform.tech/
+\*\*Start:\*\* 25 November 2026
 
-# LinkedIn: https://www.linkedin.com/company/mrs-official/
 
-# 
 
-# \## Projects
+\## Mentor
 
-# | Week | Project | Folder | LinkedIn post | Demo video |
+\[Muhammad Farhan](https://www.linkedin.com/in/muhammadfarhanmrs/)
 
-# |---|---|---|---|---|
 
-# | 1 | Lead and application intake | \[week-01](week-01) | link | link |
 
-# | 2 | AI daily news digest | \[week-02](week-02) | link | link |
+\## Organisation
 
-# 
+\- \[Muslim Revive Skills (MRS)](https://mrsplatform.tech/)
 
-# \## Tools
+\- \[MRS on LinkedIn](https://www.linkedin.com/company/mrs-official/)
 
-# n8n (Docker), Make.com, Zapier, Google Gemini, Google Sheets, Telegram, GitHub
 
-# 
 
-# \## Capstone
+\## Projects
 
-# Coming in week 12.
 
-# 
 
-# \## Contact
+| Week | Project | Folder | LinkedIn post | Demo video |
 
-# LinkedIn: https://www.linkedin.com/in/jude-ughakpoteni-337393413
+|---|---|---|---|---|
+
+| 1 | Lead and application intake | \[week-01](week-01) | link | link |
+
+| 2 | AI daily news digest | \[week-02](week-02) | link | link |
+
+
+
+\## Tools
+
+n8n (Docker), Make.com, Zapier, Google Gemini, Google Sheets, Telegram, GitHub
+
+
+
+\## Capstone
+
+Coming in week 12.
+
+
+
+\## Contact
+
+\[Jude on LinkedIn](https://www.linkedin.com/in/jude-ughakpoteni-337393413)
 
